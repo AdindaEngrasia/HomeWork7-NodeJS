@@ -1,0 +1,1 @@
+Data log berhasil ditulis ke dalam file log.txt
